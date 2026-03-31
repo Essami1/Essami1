@@ -73,12 +73,11 @@ education: Software Engineer — Ecole Marocaine des Sciences de l'Ingénieur
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Essami1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Essami1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Essami1&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Essami1&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Essami1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" />
 
 </div>
 
