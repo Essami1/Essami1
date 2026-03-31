@@ -23,7 +23,7 @@ education: Software Engineer — Ecole Marocaine des Sciences de l'Ingénieur
 ```
 
 - Currently **Charlie** — a Shopify app for omnichannel retail & order management
-- Previously optimized logistics at **Akwa Group** with MILP-based routing engines
+- Designed MILP-based routing algorithms for logistics optimization at **Akwa Group**
 - Built an AI-powered IntelliJ plugin for automated unit testing at **Xelops Technology**
 - Engineering degree from **EMSI** (Ecole Marocaine des Sciences de l'Ingénieur)
 
@@ -41,6 +41,7 @@ education: Software Engineer — Ecole Marocaine des Sciences de l'Ingénieur
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%2523-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **Frontend**
 
@@ -56,6 +57,7 @@ education: Software Engineer — Ecole Marocaine des Sciences de l'Ingénieur
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
 
 **Tools & Platforms**
@@ -88,7 +90,7 @@ education: Software Engineer — Ecole Marocaine des Sciences de l'Ingénieur
 | Company | Role | What I Built |
 |---------|------|-------------|
 | **Charlie** | Full-Stack Software Engineer | Shopify app — React, TypeScript, Rust, Cloudflare Workers |
-| **Akwa Group** | Full-Stack Developer | OptiFuel — logistics optimization with MILP engine, GraphHopper routing, Odoo 17 |
+| **Akwa Group** | Full-Stack Developer | OptiFuel — designed MILP routing algorithm for truck order assignments, GraphHopper API, Odoo 17 |
 | **Xelops Technology** | Full-Stack Developer | AI-powered IntelliJ plugin for automated unit test generation |
 | **ShipEx** | Full-Stack Developer | API development, GraphQL integration, back-end systems |
 
