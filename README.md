@@ -20,10 +20,9 @@ name: Mohammed Essami
 location: Mohammédia, Morocco
 role: Full-Stack Software Engineer @ Charlie
 education: Software Engineer — Ecole Marocaine des Sciences de l'Ingénieur
-interests: [Shopify Apps, Edge Computing, Logistics Optimization, AI]
 ```
 
-- Currently building **Charlie** — a Shopify app for omnichannel retail & order management
+- Currently **Charlie** — a Shopify app for omnichannel retail & order management
 - Previously optimized logistics at **Akwa Group** with MILP-based routing engines
 - Built an AI-powered IntelliJ plugin for automated unit testing at **Xelops Technology**
 - Engineering degree from **EMSI** (Ecole Marocaine des Sciences de l'Ingénieur)
