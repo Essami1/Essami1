@@ -100,7 +100,7 @@ education: Software Engineer — Ecole Marocaine des Sciences de l'Ingénieur
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Essami1&color=58A6FF&style=flat-square&label=Profile+Views)
 
-**Let's connect — I'm open to new opportunities!**
+**Let's connect I'm open to new opportunities!**
 
 [![LinkedIn](https://img.shields.io/badge/-Mohammed_Essami-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-essami-6433a7200/)
 
