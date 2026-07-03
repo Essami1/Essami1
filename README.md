@@ -27,16 +27,6 @@ education: Software Engineer — Ecole Marocaine des Sciences de l'Ingénieur
 ▹ Built an AI-powered IntelliJ plugin for automated unit testing at **Xelops Technology**
 ▹ Engineering degree from **EMSI** (Ecole Marocaine des Sciences de l'Ingénieur)
 
----
-
-### Recent Work
-
-*What I've shipped over the last few months at Charlie:*
-
-▹ Built multi-location order-routing and capacity-planning features spanning Shopify Admin and POS
-▹ Shipped point-of-sale (POS) UI extensions for real-time sales tracking, filtering, and reporting using Shopify Functions
-▹ Improved fulfillment and analytics reliability with retry handling and edge-case hardening
-▹ Streamlined CI/CD and deployment automation
 
 ---
 
