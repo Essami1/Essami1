@@ -22,10 +22,21 @@ role: Full-Stack Software Engineer @ Charlie
 education: Software Engineer — Ecole Marocaine des Sciences de l'Ingénieur
 ```
 
-- Currently **Charlie** — a Shopify app for omnichannel retail & order management
-- Designed MILP-based routing algorithms for logistics optimization at **Akwa Group**
-- Built an AI-powered IntelliJ plugin for automated unit testing at **Xelops Technology**
-- Engineering degree from **EMSI** (Ecole Marocaine des Sciences de l'Ingénieur)
+▹ Building **Charlie** — a Shopify app for omnichannel retail & order management
+▹ Designed MILP-based routing algorithms for logistics optimization at **Akwa Group**
+▹ Built an AI-powered IntelliJ plugin for automated unit testing at **Xelops Technology**
+▹ Engineering degree from **EMSI** (Ecole Marocaine des Sciences de l'Ingénieur)
+
+---
+
+### Recent Work
+
+*What I've shipped over the last few months at Charlie:*
+
+▹ Built multi-location order-routing and capacity-planning features spanning Shopify Admin and POS
+▹ Shipped point-of-sale (POS) UI extensions for real-time sales tracking, filtering, and reporting using Shopify Functions
+▹ Improved fulfillment and analytics reliability with retry handling and edge-case hardening
+▹ Streamlined CI/CD and deployment automation
 
 ---
 
@@ -57,7 +68,6 @@ education: Software Engineer — Ecole Marocaine des Sciences de l'Ingénieur
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
 
 **Tools & Platforms**
@@ -71,15 +81,17 @@ education: Software Engineer — Ecole Marocaine des Sciences de l'Ingénieur
 
 ---
 
+### Projects
+
+**[winsight](https://github.com/Essami1/winsight)** — Self-contained Windows 10/11 laptop audit tool: hardware health, performance, security, software inventory, and crash diagnostics in a single HTML report. `PowerShell`
+
+---
+
 ### GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Essami1&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Essami1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" />
 
 </div>
 
@@ -89,8 +101,8 @@ education: Software Engineer — Ecole Marocaine des Sciences de l'Ingénieur
 
 | Company | Role | What I Built |
 |---------|------|-------------|
-| **Charlie** | Full-Stack Software Engineer | Shopify app — React, TypeScript, Rust, Cloudflare Workers |
-| **Akwa Group** | Full-Stack Developer | OptiFuel — designed MILP routing algorithm for truck order assignments, GraphHopper API, Odoo 17 |
+| **Charlie** | Full-Stack Software Engineer | Multi-location order routing & POS extensions — React, TypeScript, Rust, Cloudflare Workers |
+| **Akwa Group** | Full-Stack Developer | OptiFuel — MILP routing algorithm for truck order assignments, GraphHopper API, Odoo 17 |
 | **Xelops Technology** | Full-Stack Developer | AI-powered IntelliJ plugin for automated unit test generation |
 | **ShipEx** | Full-Stack Developer | API development, GraphQL integration, back-end systems |
 
@@ -98,9 +110,7 @@ education: Software Engineer — Ecole Marocaine des Sciences de l'Ingénieur
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Essami1&color=58A6FF&style=flat-square&label=Profile+Views)
-
-**Let's connect I'm open to new opportunities!**
+**Let's connect — I'm open to new opportunities!**
 
 [![LinkedIn](https://img.shields.io/badge/-Mohammed_Essami-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-essami-6433a7200/)
 
