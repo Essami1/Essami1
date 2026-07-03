@@ -71,12 +71,6 @@ education: Software Engineer — Ecole Marocaine des Sciences de l'Ingénieur
 
 ---
 
-### Projects
-
-**[winsight](https://github.com/Essami1/winsight)** — Self-contained Windows 10/11 laptop audit tool: hardware health, performance, security, software inventory, and crash diagnostics in a single HTML report. `PowerShell`
-
----
-
 ### GitHub Stats
 
 <div align="center">
